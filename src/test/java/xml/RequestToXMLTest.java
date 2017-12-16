@@ -1,4 +1,4 @@
-package XML;
+package xml;
 
 import org.junit.Test;
 
@@ -104,7 +104,7 @@ import static org.junit.Assert.*;
         @Test
         public void execute() throws Exception{
             String expected ="[7]";
-            String query = "let $c := 0 return count(for $x in doc('XML/booksLibrary.xml')/all_books/book " +
+            String query = "let $c := 0 return count(for $x in doc('xml/booksLibrary.xml')/all_books/book " +
                     "where $x/cover='soft' return $x/cover)";
             String actual = request.execute(query);
             assertEquals(actual, expected);

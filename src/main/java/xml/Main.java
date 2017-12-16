@@ -1,10 +1,7 @@
-package XML;
-
-import javax.xml.xquery.XQException;
-import java.io.FileNotFoundException;
+package xml;
 
 public class Main {
-    public static void main(String[] args) throws XQException, FileNotFoundException {
+    /*public static void main(String[] args) throws XQException, FileNotFoundException {
         RequestToXML request = new RequestToXML();
         System.out.println(request.getListOfBooks());
         System.out.println(request.getListOfAuthors());
@@ -20,5 +17,5 @@ public class Main {
         System.out.println(request.getTotalPriceOfBooksByAuthor("Dan Brown"));
         System.out.println(request.getCountOfSolidBooks());
         System.out.println(request.getCountOfSoftBooks());
-    }
+    }*/
 }
