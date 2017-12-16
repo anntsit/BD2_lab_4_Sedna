@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df37e522-f6c9-40b9-8b5e-506f716978d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/xml/Main.java" afterPath="$PROJECT_DIR$/src/main/java/xml/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java" afterPath="$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/xml/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+            <state relative-caret-position="258">
+              <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestToXMLTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RequestToXMLTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="103" column="3" lean-forward="false" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="3" />
+              <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -386,8 +387,8 @@
         <option value="$PROJECT_DIR$/src/main/java/XML/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/XML/RequestToXMLTest.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/xml/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/xml/Main.java" />
       </list>
     </option>
   </component>
@@ -677,7 +678,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513373473521</updated>
-      <workItem from="1513373486619" duration="6012000" />
+      <workItem from="1513373486619" duration="6306000" />
     </task>
     <servers />
   </component>
@@ -699,7 +700,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6012000" />
+    <option name="totallyTimeSpent" value="6306000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
@@ -764,10 +765,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/xml/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="58" lean-forward="true" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        <state relative-caret-position="210">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -784,10 +785,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/xml/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="103" column="3" lean-forward="false" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="3" />
+        <state relative-caret-position="258">
+          <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

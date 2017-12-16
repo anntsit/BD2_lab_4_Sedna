@@ -101,6 +101,6 @@ public class RequestToXMLTest {
         assertEquals(request.getCountOfSoftBooks(), expected);
     }
 
-   
+
 
 }
