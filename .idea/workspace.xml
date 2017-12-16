@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df37e522-f6c9-40b9-8b5e-506f716978d0" name="Default" comment="" />
+    <list default="true" id="df37e522-f6c9-40b9-8b5e-506f716978d0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java" afterPath="$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -44,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestToXML.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RequestToXML.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/xml/RequestToXML.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="824">
               <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -56,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestToXMLTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RequestToXMLTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="210">
+              <caret line="103" column="3" lean-forward="false" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -384,8 +386,8 @@
         <option value="$PROJECT_DIR$/src/main/java/XML/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/XML/RequestToXMLTest.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/xml/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java" />
       </list>
     </option>
   </component>
@@ -675,7 +677,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513373473521</updated>
-      <workItem from="1513373486619" duration="5589000" />
+      <workItem from="1513373486619" duration="6012000" />
     </task>
     <servers />
   </component>
@@ -692,9 +694,12 @@
     <history-entry file="RequestToXMLTest_(1) - 2017.12.16 at 14h 58m 41s.xml">
       <configuration name="RequestToXMLTest (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RequestToXMLTest_(1) - 2017.12.16 at 15h 07m 45s.xml">
+      <configuration name="RequestToXMLTest (1)" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5589000" />
+    <option name="totallyTimeSpent" value="6012000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
@@ -759,16 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xml/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -781,8 +776,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/xml/RequestToXML.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="824">
           <caret line="55" column="30" lean-forward="true" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/xmltest/RequestToXMLTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="103" column="3" lean-forward="false" selection-start-line="103" selection-start-column="3" selection-end-line="103" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
