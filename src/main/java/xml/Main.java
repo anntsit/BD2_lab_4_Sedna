@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 
 public class Main {
     public static void main(String[] args) throws XQException, FileNotFoundException {
-        /*RequestToXML request = new RequestToXML();
+        RequestToXML request = new RequestToXML();
         System.out.println(request.getListOfBooks());
         System.out.println(request.getListOfAuthors());
         System.out.println(request.getListOfGenres());
@@ -19,6 +19,6 @@ public class Main {
         System.out.println(request.getCountOfBooksByAuthor("Dan Brown"));
         System.out.println(request.getTotalPriceOfBooksByAuthor("Dan Brown"));
         System.out.println(request.getCountOfSolidBooks());
-        System.out.println(request.getCountOfSoftBooks());*/
+        System.out.println(request.getCountOfSoftBooks());
     }
 }
