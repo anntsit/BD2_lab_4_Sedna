@@ -1,4 +1,7 @@
 # BD2_lab_4_Sedna
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/50fce6b869214a54be56db1a18cd92c3)](https://www.codacy.com/app/anntsit/BD2_lab_4_Sedna?utm_source=github.com&utm_medium=referral&utm_content=anntsit/BD2_lab_4_Sedna&utm_campaign=badger)
+
 <a href="https://travis-ci.org/anntsit/BD2_lab_4_Sedna">
 	<img src="https://travis-ci.org/anntsit/BD2_lab_4_Sedna.svg?branch=master">
 </a>
