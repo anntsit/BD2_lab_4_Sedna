@@ -9,7 +9,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="org.exquery:exquery-xquery3:0.1.31" level="application" />
-    <orderEntry type="library" name="saxon-he-9.3.0.5" level="application" />
   </component>
 </module>

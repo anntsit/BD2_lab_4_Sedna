@@ -4,14 +4,22 @@
     <output-test url="file://$MODULE_DIR$/../../out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/java" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../saxon-he-9.3.0.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="Gradle: org.exquery:exquery-xquery3:0.1.31" level="project" />
-    <orderEntry type="library" name="org.exquery:exquery-xquery3:0.1.31" level="application" />
-    <orderEntry type="library" name="saxon-he-9.3.0.5" level="application" />
     <orderEntry type="module-library" scope="TEST">
       <library name="JUnit4">
         <CLASSES>
